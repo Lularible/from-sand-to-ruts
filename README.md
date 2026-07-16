@@ -2,6 +2,10 @@
 
 一本从哲学到工程、从沙子到汽车电子的技术书。
 
+## 在线阅读
+
+[📖 在线浏览本书](https://web-l.github.io/lularible-books/from-sand-to-ruts/index.html)
+
 ## 这本书讲了什么
 
 全书 33 节，分七部分：
@@ -34,6 +38,10 @@
 
 
 如果你读这本书时觉得某个专题意犹未尽，大概率它在系列中有自己的独立卷。先读本册建立全局认知，再按需深入专题——这是"七部曲"的设计初衷。
+
+## 致谢
+
+- 感谢 [@web-l](https://github.com/web-l) 构建并维护本系列的 [mdBook 在线阅读站](https://web-l.github.io/lularible-books/)，方便了大家阅读。
 
 ---
 
