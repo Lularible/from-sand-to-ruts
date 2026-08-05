@@ -35,6 +35,7 @@
 - **[存储 技术书——在不可靠的硬件上构建可靠的数据家园](https://github.com/Lularible/storage-book)** — 车载存储模块（对应本书 6.3 节）
 - **[UDS 技术书——从望闻问切到UDS协议实现](https://github.com/Lularible/uds-book)** — UDS 诊断协议 （对应本书 6.1 节）
 - **[功能安全——ISO 26262分析与代码实现](https://github.com/Lularible/safety-book-iso26262)** — 功能安全技术书（对应本书 2.6 节车规可靠性内容）
+- **[汽车嵌入式软件工程——用建筑学隐喻讲工程化](https://github.com/Lularible/swe-book)** — 工程方法论卷：架构原则与质量基础设施，附可运行的 CI 流水线教学项目 eng-lite
 
 
 如果你读这本书时觉得某个专题意犹未尽，大概率它在系列中有自己的独立卷。先读本册建立全局认知，再按需深入专题——这是"七部曲"的设计初衷。
