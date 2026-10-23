@@ -2,6 +2,12 @@
 
 一本从哲学到工程、从沙子到汽车电子的技术书。
 
+<p align="center">
+  <a href="README.md"><img src="assets/lang-zh-active.svg" alt="中文" height="30"></a>&nbsp;&nbsp;&nbsp;<a href="en/README.md"><img src="assets/lang-en.svg" alt="English" height="30"></a>
+</p>
+
+> 🌐 English version: [from-sand-to-ruts (EN)](en/README.md). English chapters live in [`en/chapters/`](en/chapters/).
+
 ## 在线阅读
 
 [📖 在线浏览本书](https://web-l.github.io/lularible-books/from-sand-to-ruts/index.html)
